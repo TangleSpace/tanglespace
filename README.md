@@ -1,13 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglespace&theme=midnight-purple&show_icons=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit_components" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit_components&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hotstepper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hotstepper&theme=midnight-purple&show_icons=true" />
 </a>
 
 <!--
