@@ -6,6 +6,7 @@
 </a>
 <a href="https://github.com/TangleSpace/hydralit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit&theme=midnight-purple&show_icons=true" />
+  As featured on pythonawesome.com <img align="center" src="https://pythonawesome.com/assets/favicon.png" />
 </a>
 <a href="https://github.com/TangleSpace/hydralit_components">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit_components&theme=midnight-purple&show_icons=true" />
