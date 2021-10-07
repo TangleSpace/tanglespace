@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit_components&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit_example&theme=midnight-purple&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hydralit-example&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanglespace&repo=hotstepper&theme=midnight-purple&show_icons=true" />
